@@ -1,2 +1,3 @@
-$("#flecha").css("display", "none");
-$("#rayas").css("display", "none");
+$("#ocultar").css("display", "none");
+
+			$( "#news" ).append( "<div>NUEVAS RECETAS</div>" );
